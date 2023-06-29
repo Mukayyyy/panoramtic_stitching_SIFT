@@ -1,22 +1,18 @@
 ******************************************************************************************************************
 
-文件说明
+Document Description
 
-	可测试运行文件：StitchTester.m
+Testable run file: StitchTester.m
 
-	实现过程及实验结果展示：技术报告.pdf
+Implementation process and experimental results display: technical report.pdf
 
-        输入图像数据文件夹：data
+         Input image data folder: data
 
-        输出拼接结果图像：yosemite.jpg
+         Output stitching result image: yosemite.jpg
 
-        路径数据文件夹：KeypointDetect
+         Path data folder: KeypointDetect
 
-        其余文件均为各模块函数文件
-
-******************************************************************************************************************
-
-	祝工作愉快！
+         The rest of the files are the function files of each module
 
 ******************************************************************************************************************
 
